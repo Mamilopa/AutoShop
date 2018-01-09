@@ -1,0 +1,5 @@
+org\packt\primeautosales\jsf\MainViewController.class
+org\packt\primeautosales\jsf\UserRegistrationController.class
+org\packt\primeautosales\entity\User.class
+org\packt\primeautosales\jsf\AboutViewController.class
+org\packt\primeautosales\jsf\Car.class
